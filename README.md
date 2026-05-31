@@ -95,10 +95,8 @@ This project is a **real-time driver drowsiness detection system** that uses **c
 ---
 
 ## 🔹 Author
-👤 **Himanshu Gupta**  
-📧 Email: himanshugupta00235@gmail.com  
-🌐 GitHub: [himanshugupta00235](https://github.com/himanshugupta00235)  
-
+👤 **Shashwat Sharma**  
+📧 Email: shashwatsharma122004@gmail.com  
 ---
 
 ⭐ If you found this project useful, don’t forget to **star this repository**!
